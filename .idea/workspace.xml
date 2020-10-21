@@ -11,12 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a2fafd5-7d8c-454e-b947-d98ca1440f8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.2/javaScript1.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.3/javaScript1.3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/1.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/1.2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2/javaScript1.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/1.2/javaScript1.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/1.3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3/javaScript1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/1.3/javaScript1.3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opdracht1" />
       <recent name="$PROJECT_DIR$/1.2" />
       <recent name="$PROJECT_DIR$/1.1" />
     </key>
@@ -65,7 +65,7 @@
       <updated>1603270330883</updated>
       <workItem from="1603270332498" duration="35000" />
       <workItem from="1603270388761" duration="210000" />
-      <workItem from="1603274185858" duration="1150000" />
+      <workItem from="1603274185858" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="eerste javascript push(test/0">
       <created>1603270416874</created>
@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603270416874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Opdracht 1 is helemaal af.">
+      <created>1603278252196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603278252196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="eerste javascript push(test/0" />
-    <option name="LAST_COMMIT_MESSAGE" value="eerste javascript push(test/0" />
+    <MESSAGE value="Opdracht 1 is helemaal af." />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 1 is helemaal af." />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603270419811">
