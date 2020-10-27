@@ -11,17 +11,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a2fafd5-7d8c-454e-b947-d98ca1440f8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/img/tijger9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/javaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/img/tijger9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/monden/crookMond1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/monden/crookMond2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/monden/crookMond3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/monden/crookMond4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/monden/crookMond5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/neuzen/crookNeus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/neuzen/crookNeus2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/neuzen/crookNeus3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/neuzen/crookNeus4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/neuzen/crookNeus5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/ogen/crookOgen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/ogen/crookOgen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/ogen/crookOgen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/ogen/crookOgen4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/img/ogen/crookOgen5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/4.3/javaScript4.3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +73,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/opdracht4/4.2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opdracht4/4.2" />
+      <recent name="$PROJECT_DIR$/opdracht4/4.2/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opdracht4/4.1" />
       <recent name="$PROJECT_DIR$/opdracht1" />
       <recent name="$PROJECT_DIR$/1.2" />
       <recent name="$PROJECT_DIR$/1.1" />
@@ -78,7 +100,8 @@
       <workItem from="1603270388761" duration="210000" />
       <workItem from="1603274185858" duration="1564000" />
       <workItem from="1603349120219" duration="3278000" />
-      <workItem from="1603702365928" duration="2743000" />
+      <workItem from="1603702365928" duration="3035000" />
+      <workItem from="1603793730496" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="eerste javascript push(test/0">
       <created>1603270416874</created>
@@ -108,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603353672771</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hoofdstuk 3 is af">
+      <created>1603706412837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603706412837</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,16 +161,21 @@
     <MESSAGE value="eerste javascript push(test/0" />
     <MESSAGE value="Opdracht 1 is helemaal af." />
     <MESSAGE value="Opdracht2 is af" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht2 is af" />
+    <MESSAGE value="Hoofdstuk 3 is af" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hoofdstuk 3 is af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603350598736">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603350598736" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603353674773">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603795836015">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603353674773" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603795836015" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603706414766">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603706414766" />
   </component>
 </project>
